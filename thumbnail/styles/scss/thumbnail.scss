@@ -1,0 +1,30 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.thumbnail-2Rm {
+  height: 108rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  width: 100%;
+
+  .image-4NT {
+    height: 108rem;
+    object-fit: cover;
+    vertical-align: top;
+    width: 192rem;
+  }
+}

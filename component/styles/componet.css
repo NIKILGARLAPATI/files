@@ -1,0 +1,183 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 74.6rem;
+}.componet-66B {
+  width: 100%;
+  height: 62.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.componet-66B .logo-pXy {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.componet-66B .button--vqu {
+  width: 15.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 12.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  letter-spacing: 0.06rem;
+  color: #fafafa;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #64ccc5;
+  border-radius: 3rem;
+}
+.componet-66B .rectangle-5-kK9 {
+  width: 45.9rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 10.9rem;
+  background-color: #d9d9d9;
+}
+.componet-66B .frame-3-rNB {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 19.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.componet-66B .slider-yxb {
+  width: 9rem;
+  height: 4rem;
+  position: absolute;
+  left: 13.2rem;
+  top: 19.3rem;
+  display: flex;
+  align-items: center;
+}
+.componet-66B .slider-yxb .group-2-TFV {
+  margin-right: 1rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.componet-66B .slider-yxb .group-1-yjd {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.componet-66B .start-trial-KoV {
+  box-sizing: border-box;
+  padding: 1rem 1.9rem 1rem 1rem;
+  width: 24.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 12.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.3rem;
+}
+.componet-66B .start-trial-KoV .frame-35-Dts {
+  margin-right: 1rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.componet-66B .start-trial-KoV .start-your-free-trial-mQb {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  letter-spacing: 0.054rem;
+  color: rgba(12, 12, 12, 0.8999999762);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.componet-66B .button--SWj {
+  width: 13.9rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 12.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  letter-spacing: 0.054rem;
+  color: rgba(12, 12, 12, 0.8999999762);
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+  border-radius: 2.3rem;
+}
+.componet-66B .navigation--WmV {
+  box-sizing: border-box;
+  padding: 0.5rem 0rem 0.4rem 0.5rem;
+  width: 32.2rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 26.9rem;
+  display: flex;
+  column-gap: 3.7rem;
+  align-items: center;
+}
+.componet-66B .navigation--WmV .home-nyu {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.componet-66B .navigation--WmV .about-XAo {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.componet-66B .navigation--WmV .contact-us-sEf {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #000000;
+  font-family: Roboto Serif, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
